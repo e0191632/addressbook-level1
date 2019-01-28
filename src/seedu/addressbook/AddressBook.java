@@ -215,7 +215,7 @@ public class AddressBook {
     }
 
     /**
-     * Run the program to get user input and command.
+     * Run the program to get user command.
      */
     private static void run() {
         while (true) {
