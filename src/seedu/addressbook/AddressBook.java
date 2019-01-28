@@ -214,6 +214,9 @@ public class AddressBook {
         return;
     }
 
+    /**
+     * Run the program to get user input and command.
+     */
     private static void run() {
         while (true) {
             String userCommand = getUserInput();
